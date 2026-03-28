@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #fff5f7;
+}
+
+h1, h2, h3 {
+    color: #b85c7a;
+}
+
+.navbar {
+    background-color: #d63384 !important;
+}
+
+.btn-primary {
+    background-color: #d63384;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #b0256b;
+}
+
+.card {
+    border-radius: 15px;
+}
